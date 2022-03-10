@@ -11,8 +11,8 @@ contact:
   opennigHour:
     title : "Opening Hours"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
+      - dayTime : "Monday: 10:00 – 19:00"
+      - dayTime : "Tuesday: 10:00 – 19:00"
       - dayTime : "Wednesday: 9:00 – 19:00"
       - dayTime : "Thursday: 9:00 – 19:00"
       - dayTime : "Friday: 9:00 – 19:00"
